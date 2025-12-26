@@ -2,7 +2,8 @@ Mac-Style Browser (Electron + Node.js)
 
 A desktop Mac-style browser/dashboard built with Electron for the frontend and Node.js (Express) for the backend.
 The project serves your frontend files from public/ while providing a Node.js backend for APIs or additional server logic.
-<img width="1366" height="740" alt="Screenshot 2025-12-26 112348" src="https://github.com/user-attachments/assets/f9b629b7-2d32-470b-8f36-fdd3d9772682" />
+<img width="1364" height="617" alt="Screenshot 2025-12-26 145054" src="https://github.com/user-attachments/assets/13b49270-9c10-4763-8661-7616eb7787d3" />
+
 
 
 📁 Folder Structure
